@@ -1,0 +1,33 @@
+{
+  "name": "devtoolsavvy",
+  "version": "1.0.2",
+  "description": "devtoolsavvy",
+  "type": "module",
+  "main": "devtoolsavvy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/barcenasyoungsi10/devtoolsavvy"
+  },
+  "website": "https://github.com/barcenasyoungsi10/devtoolsavvy.git",
+  "keywords": [
+    "devtoolsavvy"
+  ],
+  "author": "barcenasyoungsi10",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barcenasyoungsi10/devtoolsavvy/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/barcenasyoungsi10/devtoolsavvy#readme",
+  "dependencies": {
+		"devprophet": "1.0.2",
+		"programcraftkit": "1.0.2",
+		"codecraftmaster": "1.0.2"
+  }
+}
